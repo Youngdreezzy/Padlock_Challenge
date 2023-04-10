@@ -1,0 +1,14 @@
+#Padlock 1
+code: 820
+
+#Padlock 2
+code: 120
+
+#Padlock 3
+code: 125
+
+#Padlock 4
+code: 500
+
+#Padlock 5
+code: 280
